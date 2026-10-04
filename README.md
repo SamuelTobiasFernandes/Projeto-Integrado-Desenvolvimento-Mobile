@@ -64,3 +64,10 @@ Na tela de Login do Aplicativo utilizar o seguinte login:
 
 `Usuário: Samuel`
 `Senha: 12345`
+
+
+
+
+`CASO A PASTA ZIP FALHE, DEIXO AQUI O LINK PARA O APLICATIVO UPADO NO DRIVE PARA REALIZAR O DOWNLOAD`
+
+[PASTA COM O APLICATIVO NO DRIVE](https://drive.google.com/file/d/19vJzRbKfb1WwKQZd9bVPh3YElAmDrFl3/view?usp=sharing)
